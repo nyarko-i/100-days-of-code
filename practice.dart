@@ -19,4 +19,12 @@ main() {
   print('Her man is  a $weakvariable');
   weakvariable = 23;
   print('He also has the number $weakvariable in his digits');
+
+  // strings
+  var s2 = 'A string practice';
+  var s3 = """
+  This is a double quote multi-line string
+  """;
+  print(s2);
+  print(s3);
 }
