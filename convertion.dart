@@ -6,6 +6,7 @@ main() {
 
   var onepointone = double.parse('1.1');
   assert(onepointone == 1.1);
+  print(onepointone);
 
   //Conversion from int to srtring
   var oneStr = 1.toString();

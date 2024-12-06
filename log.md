@@ -34,3 +34,8 @@ https://github.com/nyarko-i/100-days-of-code
 
 - Learnt about string types: raw string and multiline string
 - Explored type conversion in dart. ie int to string and vice versa
+
+**Thoughts**: Steady progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
