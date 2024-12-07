@@ -2,6 +2,8 @@ main() {
   const acontnum = 0;
   const aconstbool = true;
   const aconststring = 'hello world';
+  //int num;
+  //print(num);
 
   print(acontnum);
   print(aconstbool);

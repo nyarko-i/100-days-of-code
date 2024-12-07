@@ -39,3 +39,29 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 3: 6th December 2024
+
+**Today's Progress**: Dart Fundamentals
+
+- Learnt about consants in dart and the need to assign some variables as constants
+- learnt about the operators. ie + - =.
+- Realised that everything in dart is objected oriented.
+
+**Thoughts**: N/A
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
+
+## Day 4: 7th December 2024
+
+**Today's Progress**: Dart Fundamentals - Operators cont'd
+
+- Learnt about the Null aware operators and it's variation.
+- Learnt about the ternanry operator and how it is used.
+- learnt about the type test operator.
+
+**Thoughts**: N/A
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
