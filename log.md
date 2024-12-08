@@ -67,3 +67,16 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 5: 8th December 2024
+
+**Today's Progress**: Dart Fundamentals - Collection
+
+- Learnt about lists in dart and how to copy a list from one named variable into another.
+- Learnt about sets and how to set a type inference to a set.
+- Understood maping in dart. This is basically like how dictionary works in python. You can also use the Map() instance in dart as an alternatve way in writing.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
