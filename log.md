@@ -60,6 +60,8 @@ https://github.com/nyarko-i/100-days-of-code
 - Learnt about the Null aware operators and it's variation.
 - Learnt about the ternanry operator and how it is used.
 - learnt about the type test operator.
+- Learnt about conditional statements. ie. if, else elseif.
+- learnt loops.ie.. for, for-in, for-each and while loops
 
 **Thoughts**: N/A
 
