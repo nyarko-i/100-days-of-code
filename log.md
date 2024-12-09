@@ -80,3 +80,16 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 6: 9th December 2024
+
+**Today's Progress**: Dart Fundamentals - Review and Functions
+
+- Reviewed what I have done so far from Day 0
+- Learnt about functions.. Those that take arguments and return an output of such and those that doesn't.
+- Also using the the dynamic data type, learnt about using a function to serve more than a particular purpose.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
