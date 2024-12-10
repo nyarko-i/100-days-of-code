@@ -93,3 +93,16 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 7: 10th December 2024
+
+**Today's Progress**: Dart Fundamentals -Functions and classes
+
+- Learnt about nameless functions.
+- Also learnt more about arguments in functions. ie the positional argument and the named argument and also where and when to use such arguments
+- Started with classes. learnt that classes is a blue print for an actual object.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
