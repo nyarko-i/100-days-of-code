@@ -106,3 +106,16 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 8: 11th December 2024
+
+**Today's Progress**: Dart Fundamentals -classes cont'd
+
+- learnt in-depth about classes.
+- learnt about constructors and how to use them in classes.
+- Making fields nullable using '?' when you don't want to assign an initial value to it.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
