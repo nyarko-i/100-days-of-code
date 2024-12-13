@@ -119,3 +119,16 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 9: 12th December 2024
+
+**Today's Progress**: Dart Fundamentals -classes cont'd
+
+- learnt in depth about constructors .
+- learnt about the 'extend' method used when you want to assign a super class to that of it's children.
+- Also learnt about getters and setters and how to use them with classes.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
