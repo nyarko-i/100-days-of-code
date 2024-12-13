@@ -132,3 +132,15 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 10: 13th December 2024
+
+**Today's Progress**: Dart Fundamentals - Exception handling
+
+- Learnt about exception handling and how to use them.
+- learnt about the various types of exception we have.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
