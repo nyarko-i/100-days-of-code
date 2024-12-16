@@ -144,3 +144,15 @@ https://github.com/nyarko-i/100-days-of-code
 
 **Link to work**:
 https://github.com/nyarko-i/100-days-of-code
+
+## Day 11: 16th December 2024
+
+**Today's Progress**: Review and Flutter Setuo
+
+- Reviewed classes and exception handling.
+- started with flutter setup on my machine.
+
+**Thoughts**: Steady Progress.
+
+**Link to work**:
+https://github.com/nyarko-i/100-days-of-code
